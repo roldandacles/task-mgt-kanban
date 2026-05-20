@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Kanban Board",
+  "description": "A clean, modern, high-performance Kanban board inspired by Trello with persistent stats, fluid native drag-and-drop, and colorful accent customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
